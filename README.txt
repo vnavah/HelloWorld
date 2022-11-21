@@ -9,3 +9,4 @@ sequence_operators.py
 repfields.py
 formatting.py
 interpolation.py
+print("Done!")

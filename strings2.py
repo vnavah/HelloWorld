@@ -11,4 +11,3 @@ print(separators)
 
 values = "".join(char if char not in separators else " " for char in number).split()
 print([int(val) for val in values])
-print("Done!")

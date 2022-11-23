@@ -23,5 +23,3 @@ print()
 print(letters[-4:])
 print(letters[-1:])
 print(letters[:3])
-
-print("Done!")

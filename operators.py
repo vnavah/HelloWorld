@@ -15,5 +15,3 @@ print(a + b / 3 - 4 *12)
 print()
 
 print(a / (b * a) / b)
-
-print("Done!")

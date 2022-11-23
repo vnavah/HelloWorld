@@ -8,5 +8,3 @@ print("PI is approximately %f" % (22 / 7)) #%f float
 print("PI is approximately %60.50f" % (22 / 7))
 
 # %x hexadecimal %o octal %e scientific notation
-
-print("Done!")
